@@ -1,2 +1,3 @@
 # PlusProtoEngine
-my own render engine
+My own render engine based on OpenGL.
+Now only path-tracing.
